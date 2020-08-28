@@ -13,6 +13,7 @@
 	<artifactId>ladybug-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ladybug-app</name>
+	<packaging>war</packaging
 	<description>BTS project in Spring Boot</description>
 
 	<properties>
